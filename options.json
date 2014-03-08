@@ -1,0 +1,6 @@
+{
+  "user": "user",
+  "pass": "pass",
+  "port": "27017",
+  "database": "yelpData"
+}
